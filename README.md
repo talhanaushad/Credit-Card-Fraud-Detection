@@ -1,1 +1,1 @@
-# Credit-Card-Fraud-Detection
+This project focuses on predicting credit card approval using various machine learning models. By analyzing applicant data, the project aims to determine the likelihood of an individual's credit card application being approved. This kind of predictive modeling is valuable for financial institutions in assessing risk and making informed lending decisions.
